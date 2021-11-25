@@ -1,0 +1,308 @@
+@media (max-width:1200px) {
+
+
+    //top rated start>>>>>>>>>>>.
+    .top-rated {
+        width: 100%;
+        height: 100%;
+    }
+    //top rated finish>>>>>>>>>>>
+
+
+    // blog posts start>>>>>>>>>
+    .blog-posts {
+        width: 100%;
+        height: 100%;
+    }
+    // blog posts finish>>>>>>>>>
+
+    // more departments start>>>>>>>>>>>>>>>>>>
+    .more-departments {
+        width: 100%;
+        height: 100%;
+    }
+    // more departments finish>>>>>>>>>>>>>>>>>>>>
+
+    // hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            width: 100%;
+            height: 100%;
+
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+        .hero-text {
+            display: none;
+        }
+
+
+
+
+    }
+    // hero section finish>>>>>>>>>>>>>>>>>>>>
+
+    // new pro start>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+    // featured start>>>>>>>>>>>>>>>>>>>>>>>
+    .featured {
+        width: 100%;
+        height: 100%;
+    }
+    // featured finish>>>>>>>>>>>>>>>>>>>>>>
+
+    // top brands start>>>>>>>>>>>>>>>>>>>>>>
+    #top-brands {
+        width: 100%;
+        height: 100%;
+
+        .brands-text {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            h5 {
+                font-size: 13px;
+            }
+
+            a {
+                display: none;
+
+            }
+        }
+
+    }
+    // top brands finish>>>>>>>>>>>>>>>>>>>>>>>>
+
+    // flash sale start>>>>>>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+
+
+
+        .flash {
+            .flash-text {
+                display: none;
+            }
+        }
+
+
+        .flash-img {
+            width: 100%;
+
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // flash sale finish>>>>>>>>>>>>>
+
+
+    // popular start>>>>>>>>>>>>>>>>>>>
+    .popular {
+        .popular-box {
+            justify-content: center;
+        }
+    }
+    // popular finish>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+}
+
+
+@media (min-width:556px)and(max-width:992px) {
+    // new pro start>>>>>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+        .next-text {
+
+            .menu {
+                display: none;
+            }
+        }
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>>>>>
+
+
+    // hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+
+
+        .hero-text {
+            display: none;
+        }
+    }
+    // hero section finish>>>>>>>>>>>>>>>>
+
+
+}
+
+
+@media (min-width:1200px) {
+    // flash sale start>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+    }
+    // flash sale finish>>>>>>>>>>>>>>>>
+
+
+
+
+}
+
+
+@media (max-width:556px) {
+
+    // new pro start>>>>>>>>>>>>>
+    .new-pro {
+        width: 100%;
+        height: 100%;
+
+
+        .next-text {
+
+            .menu {
+                display: none;
+            }
+        }
+
+        .new-img {
+            width: 100%;
+
+            img {
+                width: 100%;
+            }
+        }
+    }
+    // new pro finish>>>>>>>>>>>>>>>>
+
+
+
+    //hero section start>>>>>>>>>>>>>>>>>>
+    .hero-section {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+
+        .hero-black {
+            span {
+                display: none;
+            }
+
+            .hero-span {
+                display: none;
+            }
+        }
+
+
+
+        .hero-text {
+            display: none;
+        }
+    }
+    // hero section finish>>>>>>>>>>>>>>>>>>>
+
+
+
+
+    // flash sale start??>>>>>>>>>>>>>>>>
+    .flash-sale {
+        width: 100%;
+        height: 100%;
+
+
+
+        .flash {
+            .flash-text {
+                display: none;
+            }
+        }
+
+
+
+    }
+    // flash sale finish>>>>>>>>>>>>>>
+
+
+
+
+
+
+}
+
+@media (min-width:1200px) and (max-width:1360px) {
+
+
+    // featured start>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    .featured {
+        width: 100%;
+        height: 100%;
+    }
+    // featured finish>>>>>>>>>>>>>>>>>>>>>
+
+    // top brand start>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    #top-brands {
+        width: 100%;
+        height: 100%;
+    }
+    // top brands finish>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+}
